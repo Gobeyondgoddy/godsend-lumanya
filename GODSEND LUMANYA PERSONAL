@@ -1,0 +1,35 @@
+<<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Your Name - Homepage</title>
+</head>
+<body>
+    <header>
+        <h1>GODSEND LUMANYA</h1>
+        <p>Introduction and Goals</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="childhood.html">Childhood</a></li>
+            <li><a href="education.html">Education</a></li>
+            <li><a href="skills.html">Skills and Talents</a></li>
+            <li><a href="aspirations.html">Future Aspirations</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+
+    <section>
+        <h2>Welcome to My Journey</h2>
+        <p>Brief introduction and goals,</p>
+       <p> My name is Godsend Lumanya and I`m passionate about Information technology,my expertise is in cybersecurity and software development.I am proficient in java and html and my goal is to contribute to advancements in software development</p>
+    </section>
+
+    <footer>
+        <p>Contact me at: <a href="mailto:godsendlumanya@gmail.com">godsendlumanya@gmail.com</a></p>
+    </footer>
+</body>
+</html>
